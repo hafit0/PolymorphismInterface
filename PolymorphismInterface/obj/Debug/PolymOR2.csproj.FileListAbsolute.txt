@@ -1,0 +1,7 @@
+C:\Users\ASUS\source\repos\PolymOR2\PolymOR2\bin\Debug\PolymOR2.exe.config
+C:\Users\ASUS\source\repos\PolymOR2\PolymOR2\bin\Debug\PolymOR2.exe
+C:\Users\ASUS\source\repos\PolymOR2\PolymOR2\bin\Debug\PolymOR2.pdb
+C:\Users\ASUS\source\repos\PolymOR2\PolymOR2\obj\Debug\PolymOR2.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\PolymOR2\PolymOR2\obj\Debug\PolymOR2.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\PolymOR2\PolymOR2\obj\Debug\PolymOR2.exe
+C:\Users\ASUS\source\repos\PolymOR2\PolymOR2\obj\Debug\PolymOR2.pdb
